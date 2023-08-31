@@ -1,6 +1,8 @@
 # cupcakKeLanguageForIOS6
 cupcakKe language Springboard modification for iOS 6
 
+The original version was made by dumbfoxfurry, this is just a modified version I created of it and it's fully complete.
+
 To install you will need a jail broken device running iOS 6, THIS WILL NOT WORK ON OTHER IOS VERSIONS!!
 
 You will also need iFile installed
